@@ -1,4 +1,2 @@
-Flask
-Flask-CORS
-Flask-SQLAlchemy
-PyMySQL
+flask
+pymysql
